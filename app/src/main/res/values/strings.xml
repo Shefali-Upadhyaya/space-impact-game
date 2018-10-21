@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_highscore">Highscore</string>
+    <string name="title_activity_main_high_score">MainHighScore</string>
+</resources>
